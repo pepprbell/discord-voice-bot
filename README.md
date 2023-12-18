@@ -13,7 +13,7 @@
 ## 1. 실행
 
 #### 실행 예시 영상
-https://github.com/pepprbell/discord-voice-bot/assets/67995526/ded3e0f4-e51d-441b-8b61-6bba1d64d2ac
+<video title="디스코드 봇 샘플 영상" src="https://github.com/pepprbell/discord-voice-bot/assets/67995526/ded3e0f4-e51d-441b-8b61-6bba1d64d2ac"></video>
 <br>
 
 ## 2. 제작 과정
